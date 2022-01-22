@@ -5,6 +5,14 @@
 
 跳出来思考，走出去行动
 
+## [手机](/phone.md)
+
+## 参考
+
+1. [得到](https://www.dedao.cn/)
+
+![Alt](https://repobeats.axiom.co/api/embed/83c841ca92cc9d4cbf3b85cf1177e10b5ece1151.svg "Repobeats analytics image")
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
