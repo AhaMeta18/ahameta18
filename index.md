@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to 1gmeta
 
-You can use the [editor on GitHub](https://github.com/AhaMeta18/ahameta18/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![image](https://user-images.githubusercontent.com/98196188/150619102-f51da228-3e42-4b66-8bb3-4848dc24822f.png)
+> 识别、跟随及主导技术趋势
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+跳出来思考，走出去行动
 
 ### Markdown
 
