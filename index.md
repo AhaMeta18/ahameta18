@@ -3,6 +3,9 @@
 ![image](https://user-images.githubusercontent.com/98196188/150619102-f51da228-3e42-4b66-8bb3-4848dc24822f.png)
 > 识别、跟随及主导技术趋势
 
+![image](https://user-images.githubusercontent.com/98196188/150635565-03ac80ec-7033-4697-8fdc-22e8abf1607f.png)
+![image](https://user-images.githubusercontent.com/98196188/150635571-bbb87feb-c636-48b3-b4ff-fa72c4d5285b.png)
+![image](https://user-images.githubusercontent.com/98196188/150635584-882077c1-3c43-4397-afe0-eed71b6e5996.png)
 ![image](https://user-images.githubusercontent.com/98196188/150621728-c432ba4f-b5d0-4408-b2a1-aefb1afdafe6.png)
 > 跳出来思考，走出去行动，立足中国，放眼全球。
 
