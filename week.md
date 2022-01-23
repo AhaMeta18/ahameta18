@@ -12,7 +12,7 @@
 
 ### [前端与后端，谁更难？](https://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html)
 
-https://cdn.beekka.com/blogimg/asset/202201/bg2022011602.webp![image](https://user-images.githubusercontent.com/98196188/150620710-6402e397-cd88-4b53-a8ae-9769b8d8a58c.png)
+![image](https://user-images.githubusercontent.com/98196188/150620710-6402e397-cd88-4b53-a8ae-9769b8d8a58c.png)
 
 
 ```
