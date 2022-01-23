@@ -14,7 +14,7 @@ iPhone在Pro系列上，对新特性的命名都不惜各种Pro：ProMotion、Pr
 
 A15仿生
 
-1. [电影效果](https://news.mydrivers.com/1/784/784834.htm）
+[电影效果](https://news.mydrivers.com/1/784/784834.htm）
 
 其中印象最深的新功能，非电影效果莫属，在实际拍摄中会默认识别人物面部为焦点，AI自动理解人物之间的关系，当转头或者移出画面，都会对焦到新的人脸上。
 
@@ -24,7 +24,7 @@ A15仿生
 
 实际体验下来会觉得这是一个完成度非常高、并且算法参与度也非常高的新功能。
 
-2. ProMotion
+ProMotion
 
 今年的iPhone，终于在Pro系列上给了梦寐以求的高刷。
 
@@ -41,6 +41,46 @@ A15仿生
 
 ![image](https://user-images.githubusercontent.com/98196188/150619335-7fe17950-f883-48f8-bbd0-590c495df468.png)
 
+![image](https://user-images.githubusercontent.com/98196188/150635624-aca61afa-d6cf-4a4d-b65d-e6841db79251.png)
+
+### [OPPO Watch ECG版](https://www.igao7.com/news/202103/NrufEh9XTGbDSVM2.html)
+
+![image](https://user-images.githubusercontent.com/98196188/150665995-1c5d8303-8b6d-4670-a7f6-18ea50e5f66f.png)
+
+OPPO Watch在2020年的3月6日发布，半年后的9月24日，OPPO Watch ECG版发布。后者是国内首个拿到二类医疗器械注册许可证的智能手表。
+
+OPPO Watch ECG版的外观，可以参考Find X3：“在深圳湾一号，看腻Apple Watch的我想换表，但又不想让人觉得我不合群，所以选择了低调的OPPO Watch ECG版”。
+
+![image](https://user-images.githubusercontent.com/98196188/150664298-b5feb97f-9a59-479e-bc48-8bddaa312dfe.png)
+
+2014/2015年间，国内有很多用安卓系统塞到手表里的产品，但它们最后都被扔进了历史的垃圾桶。最近一两年，继承爆改Android这个遗愿的大厂产品，只剩OPPO Watch一款了。
+系统底层是基于Android  8.1的ColorOS Watch V1.5。另外还有备用的RTOS嵌入式系统，后者常见于手环和大号手环（现在大部分的智能手表）。
+
+OPPO Watch ECG版不需要像WearOS手表那样等适配或者折腾，直接ADB装自己想用的APK就好了，新手零基础看教程跑起来都不用10分钟，折腾起来很是惬意。
+
+OPPO Watch ECG版的充电底座就是USB数据线，连上电脑就像普通手机一样，能直接读取/写入文件（原厂剩余4.7G可用），导歌曲不比那些RTOS的大号手环舒服？
+
+adb shell用wm density 160改一下缩放比例，大部分app都能正常使用，王者荣耀和GTA 5实际上用这颗骁龙2500，也真能在这块402*476屏幕上跑起来，只是体验很amazing就是了。
+
+OPPO有只自己的IoT生态，OPPO Watch ECG版能遥控OPPO的电视。戴着OPPO Watch看电视睡着，电视会降低音量并自动息屏（前提是你有台OPPO TV）；
+
+3月OTA之后，手表可以查看连续血糖（暂时只支持颐健安血糖仪）、接收血压测量提醒，手机上能查看血压数据，方便长期血压管理（暂时只支持欧姆龙血压计），顿时更像是医疗设备了；
+
+有家庭关爱模式，手表上能看父母运动量，有点赞、心率异常等健康提醒，也有快速SOS拨号功能；
+
+运动有自动监测模式，走起来就会弹窗提醒和记录。4路心电接收器，就算戴得很松，运动幅度很大也能正常读取心率；
+
+OPPO Watch ECG版兼容所有Android手机，功能几乎没打折扣。一个Heytap健康APP就搞定，不用像华为那样再安装框架之类的。非OPPO手机上，Breeno语音助手也能用，。入WiFi/LTE后，Breeno甚至不需要连手机就能用；
+
+OPPO Watch ECG版这种有扬声器的手表可以接听电话，通勤路上、上厕所没带手机、手弄脏了之类场景，手表应急接个电话还是挺好用的；
+
+eSIM移动、联通、电信都能一号双终端，联通的地区支持最全（移动和电信只支持几个大城市，大部分地区只能独立开号），电信的月租最低（5元月租，移动和联通是10元）。开独立号码的话，都是9到10元月租，500MB流量+60分钟语音，大部分人都不可能用得完。
+
+OPPO Watch ECG版的430mAh电池，标称续航40小时。关闭WiFi和4G，就算是开连续心率、一天200来条通知，也能跑50小时左右。开省电模式下的非智能系统可以跑21天，你甚至无法感觉出电量的变动（只有5格电量显示）。
+
+OPPO Watch ECG版是充电最快的智能手表，可能没有之一。官标是75分钟充满，结果从20%电量开始充电，10分钟充到51%，15分钟到64%，20分钟到80%，30分钟96%，充满耗时35分钟，不讲武德。
+
+80%前的充电曲线都是直的，基本15分钟回血45%。平时洗澡脱下手表充电，大半年来就没仔细看过它的电量读数。因为有省电模式打底，出差也从未带过它的充电器。就是因为充电太猛，我也原谅它不是无线充了。
 
 ### 技术趋势
 
@@ -51,5 +91,10 @@ A15仿生
 折叠屏的出现，使得手机这种已经定型的产品，重新出现了许许多多的可能性。
 
 ## 参考
+
+1. [爱搞机](https://www.igao7.com)
+2. [雷锋网](https://www.leiphone.com) 
+3. [鸿蒙2021：从无到有，初具生态](https://www.leiphone.com/category/industrynews/nsfitSkPTVef43XN.html) 
+4. [联发科难当大哥？](https://www.leiphone.com/category/chips/EHCTykWu4aKuYLP0.html)
 
 [返回主页](/)
