@@ -843,5 +843,7 @@ Facebook的数字钱包Novi在去年10月份作为试点推出，对这些计划
 ## 参考
 
 1. [微软豪掷近700亿美元收购动视暴雪,与“元宇宙”公司一较高下](https://www.leiphone.com/category/industrynews/p2Qt3FbScfhewELT.html)
+2. [元宇宙的“42条共识”](https://mp.weixin.qq.com/s/Oqd5RROqr3U5bEZ6PdjWQQ)
+3. [元宇宙之心MetaverseHub](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0NTI3NzkyMw==&scene=124#wechat_redirect)
 
 [返回主页](/)
