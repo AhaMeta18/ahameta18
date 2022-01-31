@@ -99,5 +99,6 @@ OPPO Watch ECG版是充电最快的智能手表，可能没有之一。官标是
 5. [联发科难当大哥？](https://www.leiphone.com/category/chips/EHCTykWu4aKuYLP0.html)
 6. [OPPO Watch 2 ECG 版体验：在家就能测心电，像手机一样的智能化体验](https://www.geekpark.net/news/290706) 
 7. [三星Galaxy Buds Pro评测：三星依旧是曾经的那个强者](https://www.sohu.com/a/450272959_115088)
+8. [最适合Mac的机械键盘？Keychron K6到底有没有那么好？](https://zhuanlan.zhihu.com/p/237720536)
 
 [返回主页](/)
