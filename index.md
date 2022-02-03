@@ -18,6 +18,7 @@
 ## [手机](/phone.md)
 ## [元宇宙](/meta.md)
 ## [UI](/ui.md)
+## [科技](/technology.md)
 ## [周刊](/week.md)
 
 ## 根源
