@@ -37,6 +37,33 @@ ProMotion
 
 从测试软件的实时帧率可以看出，打开低电量模式前后，滑动屏幕时的最高刷新率分别为120Hz 和60Hz。
 
+### [Apple Watch Series 7 评测：大同小异还是大有不同？](https://www.ifanr.com/1447148)
+
+![image](https://user-images.githubusercontent.com/98196188/152644564-0f40f814-52f6-4aca-86bd-ab74226caed0.png)
+
+好消息是，无论你买的是大表盘还是小表盘，前几代的祖传表带，依然通用。
+
+![image](https://user-images.githubusercontent.com/98196188/152644667-cd489a5e-f0ec-4aa1-8aa0-33d93973ecb4.png)
+
+实际上，Series 7 只用了 40 分钟就充到了 93%，只不过系统为了延缓电池老化，在「电池健康」里默认开启了「优化电池充电」，所以越到后面充电越慢，最后 3% 就耗了 10 分钟。
+
+注意，快充的前提必须使用随机附送的充电线，这根线终于从祖传 A 口更换成了 Type-C，而且，你得自行搭配一个 20W 充电器方能达到上述的快充效果。如果你使用过去的 A 口充电器给 Series 7 充电，我们测出的结果是 106 分钟，与 Series 6 基本持平。那我们就很好奇了，如果用旧手表搭配上这根快充线，能老树发新芽吗？答案是能，但很有限。前半段的充电速度的确上去了，但到了后半段明显变慢。充电总时长仅仅快了 10 分钟。
+
+Apple Watch 依然需要一天一充。
+
+Apple Watch 不是一个像手机一样的生活必需品，你固然可以用它看看微信通知、接接电话、切切歌，甚至啥也不干只是作为腕上的装饰品，它归根结底是一个满足健身和健康需求的工具。
+
+[Apple Watch 7 评测：一款独立且实用的智能手表](https://www.znj.com/news/91903.html)
+
+![image](https://user-images.githubusercontent.com/98196188/152644593-d953427f-70a7-4769-a4e5-4b1c6f58c0ca.png)
+Apple Watch 3（左）与 Apple Watch SE（中）与 Apple Watch 7（右）之间的显示尺寸差异。
+
+在核心性能方面，相比 Series 6，Series 7 似乎没有任何提升，因为它们配备了同样的芯片组，但相比老款机型还是有很明显的改进。
+
+功能方面，Series 7 与 Series 6 非常相似，具有相同的 GPS、光学心率监测器、血氧监测器、电子心率传感器、永远在线的高度计、指南针和跌倒检测。
+
+Apple Watch Series 7 还提供基本的睡眠跟踪功能，watchOS 15 对其进行了改进，现在还能够跟踪您整晚的呼吸频率，但与小米跟踪器的睡眠跟踪相比，Series 7 仍然是基本的第6级，缺乏睡眠阶段等关键数据。
+
 ### Galaxy Z Fold3 5G
 
 ![image](https://user-images.githubusercontent.com/98196188/150619335-7fe17950-f883-48f8-bbd0-590c495df468.png)
