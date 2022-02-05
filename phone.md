@@ -56,7 +56,7 @@ Apple Watch 不是一个像手机一样的生活必需品，你固然可以用�
 [Apple Watch 7 评测：一款独立且实用的智能手表](https://www.znj.com/news/91903.html)
 
 ![image](https://user-images.githubusercontent.com/98196188/152644593-d953427f-70a7-4769-a4e5-4b1c6f58c0ca.png)
-Apple Watch 3（左）与 Apple Watch SE（中）与 Apple Watch 7（右）之间的显示尺寸差异。
+> Apple Watch 3（左）与 Apple Watch SE（中）与 Apple Watch 7（右）之间的显示尺寸差异。
 
 在核心性能方面，相比 Series 6，Series 7 似乎没有任何提升，因为它们配备了同样的芯片组，但相比老款机型还是有很明显的改进。
 
