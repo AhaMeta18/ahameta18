@@ -4,14 +4,19 @@
 [3-2-1 备份策略](https://www.vmwareblog.org/3-2-1-backup-rule-data-will-always-survive/)
 
 为了防止数据丢失，对于最重要的数据，应该采取 3-2-1 备份策略。
+
 首先，除了原始数据，你应该有3份数据拷贝。
+
 ![image](https://user-images.githubusercontent.com/98196188/154796234-cf722b79-45a4-44d4-aa6d-6f096d72dd7a.png)
 
 其次，3份数据拷贝应该保存在两种媒介，比如不能放在同一个硬盘或者同一台计算机。
+
 ![image](https://user-images.githubusercontent.com/98196188/154796241-7ba5653d-176f-4879-831d-207a9653bb1a.png)
 
 最后，有一份数据拷贝必须放在异地，比如在云端或其他城市。
+
 ![image](https://user-images.githubusercontent.com/98196188/154796246-ca1f8b4c-bc7f-4350-8e03-bffe48369994.png)
+
 
 一项研究表明，观看学习视频时，两倍速看两遍比正常速度看一遍，效果更好。
 -- [英国心理学会](https://digest.bps.org.uk/2021/12/21/watching-a-lecture-twice-at-double-speed-can-benefit-learning-better-than-watching-it-once-at-normal-speed/)
@@ -50,7 +55,6 @@ API 是新的动态链接库 (DLL)。
 ![image](https://user-images.githubusercontent.com/98196188/154796063-ad8d9589-8c7c-40ed-9a7a-9ceb483a276f.png)
 > [Chrome OS Flex](https://cloud.google.com/blog/products/chrome-enterprise/chrome-os-flex)，谷歌推出了 Chrome OS 的通用安装版，可以在现有的 PC 和 Mac 上安装，为普通用户提供了 Windows/MacOS 以外的第三种操作系统的选择。
 
-
 ### [前端与后端，谁更难？](https://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html)
 
 ![image](https://user-images.githubusercontent.com/98196188/150620710-6402e397-cd88-4b53-a8ae-9769b8d8a58c.png)
@@ -83,19 +87,16 @@ API 是新的动态链接库 (DLL)。
 
 ![image](https://user-images.githubusercontent.com/98196188/154794193-dacb4f99-23ec-4142-a0e6-53964114bef3.png)
 
-
 我向大家推荐一本书，就是讲个人兴趣可以让一个人走得多远。书名叫做 《孤筏重洋》，作者是上个世纪的一位挪威学者海尔达尔。
 他原本是动物学家，有一次去南太平洋波利尼西亚群岛研究动物。他注意到那里的一个未解之谜，那些岛屿（下图黄色多边形的右侧部分）距离最近的陆地都有几千公里，没人知道，岛上的土著居民是从哪里来的？
 
 ![image](https://user-images.githubusercontent.com/98196188/154794199-cee3201b-73ce-483b-974c-89e5872e5950.png)
-
 
 他出于兴趣，写了一篇文章，推测可能是从南美洲坐木筏来的。所有杂志都拒绝发表，专家评语是异想天开，木筏怎么可能横渡几千公里的太平洋呢？
 海尔达尔不甘心这么放弃，念念不忘自己的假说，最后做出了一个最疯狂的决定。你们都不信，我就实现给你们看。
 他真的做了一支大木筏（下图），住在上面，用了三个月时间，完全依靠风力和洋流，饿了就捕鱼，渴了就喝雨水，这样从秘鲁漂到了波利尼西亚群岛，行程8000公里。完成这个壮举之后，他写了这本书，后来还拍成了电影，下面是预告片。
 
 ![image](https://user-images.githubusercontent.com/98196188/154794209-200a9759-db0b-451f-bab1-43ceb303ac6a.png)
-
 
 因为这件事，他认识到自己的真正道路不是动物学，而是人类学和历史，他后来成了世界著名的人类学家。阅读这本书，可以鼓舞士气，让你获得勇气去追寻梦想，而且书的内容都是科学冒险，可读性很强。
 总之，如果你找到了一个兴趣项目，你觉得它对你很重要，但是这个项目赚不到钱，可能也不会有人关注。我的建议是不要放过它，要抓住这个项目，这是你学习新知识、找到自我、成就自我的最好途径。
