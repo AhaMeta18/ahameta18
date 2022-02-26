@@ -1,6 +1,22 @@
 # 周刊
 [返回主页](/)
 
+人们总是以为，数学定理一旦被证明，就会永远流传下去。但是现在有些数学证明过于艰深，少数理解它们的数学家年龄增长离开该领域以后，就没人懂了，有被遗忘的风险。
+-- [《2021年数学进展回顾》](https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/)
+
+区块链的第一个炒作高峰，出现在2017年，区块链公司通过 ICO 筹集了数亿美元。四年后的现在又是一个炒作高峰，现在的主角是 NFT 和 Web3。
+但是这些年，除了交易和资金本身，并没有诞生任何一个可以在日常生活使用的案例。区块链听起来很有趣，但还从未能用于区块链领域之外的产品。
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=29944090)
+
+911事件后，中央情报局想了很多办法寻找本拉登。其中的一个计划是，在巴基斯坦推广乙肝疫苗接种，实际上在收集 DNA 样本，试图发现本拉登的家人。该计划最后一无所获。
+-- [《中央情报局的本拉登疫苗》](https://www.thedailybeast.com/cias-osama-bin-laden-vaccine-ruse-haunts-public-health-efforts?ref=scroll)
+
+工程师和设计师都有巨人主义情节，喜欢构建庞然大物，对很多人来说这是一种永无止境的诱惑。
+-- [《巨人主义的诱惑》](https://spectrum.ieee.org/jumbo-airplane)
+
+生活中，所有事情都有最后一次。你会最后一次出门，最后一次吃你最喜欢的菜，最后一次听一首歌，或者最后一次呼吸。但是在那之前，你有很多机会做所有这些事情，珍惜你做的每一次。
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=29682963)
+
 [3-2-1 备份策略](https://www.vmwareblog.org/3-2-1-backup-rule-data-will-always-survive/)
 
 为了防止数据丢失，对于最重要的数据，应该采取 3-2-1 备份策略。
@@ -55,6 +71,31 @@ API 是新的动态链接库 (DLL)。
 ![image](https://user-images.githubusercontent.com/98196188/154796063-ad8d9589-8c7c-40ed-9a7a-9ceb483a276f.png)
 > [Chrome OS Flex](https://cloud.google.com/blog/products/chrome-enterprise/chrome-os-flex)，谷歌推出了 Chrome OS 的通用安装版，可以在现有的 PC 和 Mac 上安装，为普通用户提供了 Windows/MacOS 以外的第三种操作系统的选择。
 
+### [掌机的未来](https://www.ruanyifeng.com/blog/2022/02/weekly-issue-196.html)
+
+今天（2月25日），Valve 公司的掌上游戏机 Steam Deck 上市了。
+它有非常出色的硬件，搭配世界最大的游戏平台 Steam，我预测会很抢手，可能一机难求。
+
+![image](https://user-images.githubusercontent.com/98196188/155823910-380c707c-ac5e-437b-806f-04b78db0f1c7.png)
+
+它采用 AMD 公司的 x86 CPU，网上已经有拆机视频，完全就是一个迷你笔记本，可以看到散热的铜管和风扇。
+
+![image](https://user-images.githubusercontent.com/98196188/155823928-3dfb03bc-392f-4ad5-ad38-a6b8647204a6.png)
+
+再加上，它的操作系统是 Linux，游戏平台不过是 Linux 应用程序。所以，它其实不是游戏机，而是一台真正的掌上 PC。
+这注定了，它的可玩性和可扩展性远超其他掌上游戏机，可以用来做各种事情，有无数的可能。举例来说，有人已经在它上面装了模拟器，玩 Switch 游戏。
+
+正常年份下，这样一部掌机上市，消费者就不用考虑其他机器了。但是，今年是一个不正常的年份，不知道什么原因，各家厂商都推出了掌上游戏机，而且各有特点，适合不同的人群和需求。
+
+今年厂商推出这么多掌机，这到底为什么？
+
+> 一个原因可能是技术成熟了，硬件厂商已经完全掌握了如何制造高性能、高续航的手持设备，新一代掌机的诞生水到渠成。
+
+更大的原因，我猜想是手机市场饱和了，为了找到新市场，大家都盯上了掌机。毕竟，以前的几代掌机 GameBoy、3DS、PSP、Switch，销量都是天文数字。
+但是，手机市场饱和意味着，每个用户口袋里都有一部手机，而且性能都不错。当用户已经可以玩免费的手机游戏，他还会愿意再掏钱买一部掌机吗？
+Steam Deck 的销量会告诉我们，掌机还有多大的市场。我个人还是很看好的，这些年来，我越来越发现，游戏是一种非常强劲的真实需求，人们真的愿意为玩游戏掏钱。
+甚至以后人们没有手机、只有掌机，也是可能的。因为手机现在已经不是通话设备了，只是一个手持上网终端，通话功能都转移到蓝牙耳机了。那么，掌机只要集成了通信模块，就能取代手机，折叠屏技术正好能让掌机塞进裤袋。
+
 ### [前端与后端，谁更难？](https://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html)
 
 ![image](https://user-images.githubusercontent.com/98196188/150620710-6402e397-cd88-4b53-a8ae-9769b8d8a58c.png)
@@ -101,6 +142,29 @@ API 是新的动态链接库 (DLL)。
 因为这件事，他认识到自己的真正道路不是动物学，而是人类学和历史，他后来成了世界著名的人类学家。阅读这本书，可以鼓舞士气，让你获得勇气去追寻梦想，而且书的内容都是科学冒险，可读性很强。
 总之，如果你找到了一个兴趣项目，你觉得它对你很重要，但是这个项目赚不到钱，可能也不会有人关注。我的建议是不要放过它，要抓住这个项目，这是你学习新知识、找到自我、成就自我的最好途径。
 
+[漫威电影的漏洞](https://www.npr.org/2021/11/19/1057397887/move-over-blink-of-an-eye-the-snap-of-a-finger-is-the-fastest-human-motion)
+
+![image](https://user-images.githubusercontent.com/98196188/155824093-545d4a54-541f-44c7-ba33-8350192c669a.png)
+
+漫威公司的热门电影《复仇者联盟》，主要情节是大魔王萨诺斯戴上无限宝石手套，打一个响指，就会消失一半人口。佐治亚理工学院的一个科学家认为，这里有一个巨大的情节漏洞。
+
+![image](https://user-images.githubusercontent.com/98196188/155824096-18014570-0734-4896-a035-40a9926e0a5b.png)
+
+他认为，当你戴上金属手套，就根本不可能打出响指。响指的原理是两根手指击打，肌肉振动发出声音。但是，戴上金属手套就不可能有肌肉振动，所以不会有响指声，只会有金属碰撞的声音。
+为了证明这一点，他戴上橡胶手套做实验，证明确实打不出响指。
+
+[伽马影迷](https://ggt1024.com/#/productJwksExt)
+
+![image](https://user-images.githubusercontent.com/98196188/155824362-b02848ac-2f08-4c60-8382-fe0c4257047b.png)
+
+一个浏览器插件，可以在 B 站/豆瓣/IMDb/烂番茄/MetaCritic 等网站上，聚合显示电影评分、短视频解说和片源信息。
+
+[77 种地铁的 M 标志](https://www.bloomberg.com/news/articles/2015-06-08/how-77-metro-agencies-design-the-letter-m-for-their-transit-logo)
+
+![image](https://user-images.githubusercontent.com/98196188/155824461-bcef26c5-4471-4054-b24b-5870eca5d87b.png)
+
+地铁的标志一般是字母 M（metro 的首字母），下面是世界各地77个城市的 M 地铁标志。
+
 ## 参考
 
 1. [最老的唱片出版者](https://www.bbc.com/news/entertainment-arts-59986543) 
@@ -111,13 +175,15 @@ API 是新的动态链接库 (DLL)。
 6. [悲观者正确，乐观者成功](https://www.ruanyifeng.com/blog/2022/02/weekly-issue-194.html)
 7. [程序员如何通过在Medium.com上写技术博客赚钱？](https://medium.com/写作之路/程序员如何在medium-com上通过写技术博客赚钱-6d47d82b03dd)
 8. [数据结构(C语言)](https://lookcos.cn/archives/1120.html)
-9. [Excel 世界杯](https://www.theverge.com/2021/12/11/22829228/excel-pros-financial-modeling-world-cup)
-10. [如何在自己从事的领域内做到最好？](https://xz.chsi.com.cn/xz/zyts/201710/20171012/1634855646.html) 
-11. [随心飞翔：苹果教父乔布斯的22条成功心经](https://books.google.com.sg/books?id=oblWEAAAQBAJ&pg=PT197&lpg=PT197&dq=成功+就是+做最擅长的事情&source=bl&ots=5IadYhyEIB&sig=ACfU3U2Cp0Yj0oRFBN0S5hRGT6RHIccBOQ&hl=en&sa=X&ved=2ahUKEwj6-b-vtYv2AhWQUGwGHYeBDoUQ6AF6BAgLEAM#v=onepage&q=成功%20就是%20做最擅长的事情&f=false)
-12. [能力陷阱](https://book.douban.com/subject/30489331/) 
-13. [北京冬奥会专用字体是如何诞生的（中文）](https://www.logonews.cn/2022021004254541.html) 
-14. [GPS 原理解释（中文）](https://pages.longtian.info/gps/)
-15. [Big-O 复杂性速查表](https://www.bigocheatsheet.com/)
-16. [陶哲轩的数学课](https://www.masterclass.com/classes/terence-tao-teaches-mathematical-thinking/)
+9. [Rust 语言数据结构和算法](https://github.com/QMHTMY/RustBook/tree/main/books)
+10. [Excel 世界杯](https://www.theverge.com/2021/12/11/22829228/excel-pros-financial-modeling-world-cup)
+11. [如何在自己从事的领域内做到最好？](https://xz.chsi.com.cn/xz/zyts/201710/20171012/1634855646.html) 
+12. [随心飞翔：苹果教父乔布斯的22条成功心经](https://books.google.com.sg/books?id=oblWEAAAQBAJ&pg=PT197&lpg=PT197&dq=成功+就是+做最擅长的事情&source=bl&ots=5IadYhyEIB&sig=ACfU3U2Cp0Yj0oRFBN0S5hRGT6RHIccBOQ&hl=en&sa=X&ved=2ahUKEwj6-b-vtYv2AhWQUGwGHYeBDoUQ6AF6BAgLEAM#v=onepage&q=成功%20就是%20做最擅长的事情&f=false)
+13. [能力陷阱](https://book.douban.com/subject/30489331/) 
+14. [北京冬奥会专用字体是如何诞生的（中文）](https://www.logonews.cn/2022021004254541.html) 
+15. [GPS 原理解释（中文）](https://pages.longtian.info/gps/)
+16. [Big-O 复杂性速查表](https://www.bigocheatsheet.com/)
+17. [陶哲轩的数学课](https://www.masterclass.com/classes/terence-tao-teaches-mathematical-thinking/)
+18. [经典日剧 AI 高清修复](https://www.bilibili.com/video/BV1HY411h7QH/)
 
 [返回主页](/)
