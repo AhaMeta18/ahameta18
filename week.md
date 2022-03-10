@@ -165,6 +165,44 @@ Steam Deck 的销量会告诉我们，掌机还有多大的市场。我个人还
 
 地铁的标志一般是字母 M（metro 的首字母），下面是世界各地77个城市的 M 地铁标志。
 
+[数独求解](https://leetcode.com/problems/sudoku-solver/discuss/15796/Singapore-prime-minister-Lee-Hsien-Loong%27s-Sudoku-Solver-code-runs-in-1ms)
+
+![image](https://user-images.githubusercontent.com/98196188/157669635-011cf9cc-dead-41ec-99e5-f625d3c467df.png)
+> 新加坡总理李显龙多年前写的 C++ 数独求解程序。他毕业于剑桥大学，拥有数学学士和计算机硕士学位，参见他的 Facebook 原帖。
+
+[CyberChef](https://gchq.github.io/CyberChef/)
+
+![image](https://user-images.githubusercontent.com/98196188/157669784-9a8c2bff-199b-42a7-9cd8-90c6cd0cbbf0.png)
+> 一个开源网站，集合了上百种实用的小功能（比如 Base64 解码、提取 EXIF、生成 Hash 等等），都包括在一个网页里面。熟悉以后，非常好用。
+
+[清单的作用](https://www.lesswrong.com/posts/dtmmP4YdJEfK9y4Rc/book-review-the-checklist-manifesto)
+
+![image](https://user-images.githubusercontent.com/98196188/157670601-0519e589-cdce-4dd7-8742-1a0d98260fc7.png)
+
+第二次世界大战之前，美国陆军航空兵测试新的轰炸机，其中有一个机型是波音公司的299型轰炸机。
+这种飞机在工程技术上非常领先，比现有的轰炸机可以多携带五倍的炸弹，而且飞得更快更远。
+
+但是，1935年10月30日的首次试飞中，这架飞机坠毁了。
+根据事后的调查，飞机的设备运行正常，但是由于控制仪表太多太复杂，飞行员出了差错，忘记了释放升降舵的锁定装置。调查报告的结论就是一句话："一个人操作这架飞机太难了。"
+美国军方不得已，要求波音公司更改设计，放弃部分性能，让操作变得更简单。
+
+后来，随着战争局势日益紧张，军方心里还是念念不忘这架轰炸机的性能。他们又从波音公司找来最后几架库存机，交给一组试飞员试图找到一种方法，可以安全地驾驶这架飞机，不会出现事故。
+最后找到的方法，就是列出一个操作清单，要求所有飞行员严格按照清单，完成每一步操作：检查仪表、释放刹车、关闭门窗、解锁控制装置等等。
+很奇怪，就是这么一个简单的清单，一切就变了。试飞员总共飞行了180万英里，没有发生任何事故，于是军方订购了数千架这种飞机，后来改称为 B-17 轰炸机，成为第二次世界大战之中美军的主力轰炸机。
+一张卡片大小的清单，就这样让美国军队在二战中获得了决定性的空中优势。
+
+这告诉我们，`如果遇到复杂的任务，不妨列出一张清单，按顺序列出每一个步骤，这会大大降低复杂性。`
+
+电子邮件是不同组织之间唯一可靠的通信方式。几乎每个大型企业都有一个内部通信系统（Slack、Microsoft Teams、Discord 等），它们在组织内部或封闭群体中工作得很好，各方面都强于电子邮件。
+但是，当你想要进行组织之间的通信、或与外部人员合作时，这些通信系统都不理想，并且无法补救，因为它们都不支持对等网络的联合（federated）。
+-- [《电子邮件是互联网的关键基础设施》](https://utcc.utoronto.ca/~cks/space/blog/tech/EmailCriticalInfrastructure)
+
+中国北方以种植小麦为主，南方以种植水稻为主。有一种理论，认为水稻需要稻农合作，解决灌溉和水灾，而小麦主要依靠雨水，不需要与其他人合作，所以北方人的个人主义倾向更强一些，南方人则是群体性倾向更强。
+-- [《全球范围的南北方差异》](https://www.economist.com/christmas-specials/2021/12/18/north-south-antipathies-endure-around-the-globe)
+
+随着在家办公的盛行，员工为了让经理看见自己，表演性质的行为也变得盛行，比如始终在通讯软件上显示在线、分享安排得满满的日历、电子邮件的发出时间经常在清晨或下班后。
+-- [《表演行为的兴起》](https://www.economist.com/business/2022/01/08/the-rise-of-performative-work)
+
 ## 参考
 
 1. [最老的唱片出版者](https://www.bbc.com/news/entertainment-arts-59986543) 
@@ -185,5 +223,7 @@ Steam Deck 的销量会告诉我们，掌机还有多大的市场。我个人还
 16. [Big-O 复杂性速查表](https://www.bigocheatsheet.com/)
 17. [陶哲轩的数学课](https://www.masterclass.com/classes/terence-tao-teaches-mathematical-thinking/)
 18. [经典日剧 AI 高清修复](https://www.bilibili.com/video/BV1HY411h7QH/)
+19. [如果这个世界有快乐机](https://www.ruanyifeng.com/blog/2022/03/weekly-issue-197.html)
+20. [走进迪拜未来博物馆](https://www.ifanr.com/1473634)
 
 [返回主页](/)
