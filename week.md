@@ -203,6 +203,26 @@ Steam Deck 的销量会告诉我们，掌机还有多大的市场。我个人还
 随着在家办公的盛行，员工为了让经理看见自己，表演性质的行为也变得盛行，比如始终在通讯软件上显示在线、分享安排得满满的日历、电子邮件的发出时间经常在清晨或下班后。
 -- [《表演行为的兴起》](https://www.economist.com/business/2022/01/08/the-rise-of-performative-work)
 
+[Datawrapper](https://www.datawrapper.de/)
+
+![image](https://user-images.githubusercontent.com/98196188/158043935-acd0ce45-603b-42b1-b1b5-1636180663ac.png)
+> 著名的数据可视化生成工具，只要在网页上提交数据，经过几步配置，就能生成杂志级的可视化图表。不需要注册就可以免费使用。
+
+[Orange](https://github.com/naaive/orange/blob/master/README_cn.md)
+
+![image](https://user-images.githubusercontent.com/98196188/158044087-2d0b236d-ff89-43c5-888e-722e23a15d95.png)
+![image](https://user-images.githubusercontent.com/98196188/158044052-6ba9b2bc-540a-460a-a463-09d5ed8c6a4e.png)
+> 一个开源的跨平台文件搜索软件，用于搜索本机文件，简单好用。
+
+[GNU coreutils 解码](http://www.maizure.org/projects/decoded-gnu-coreutils/index.html)
+
+![image](https://user-images.githubusercontent.com/98196188/158044503-efc92528-e4d8-4ec5-99ad-2864c0b847f8.png)
+> Linux 基本的命令行工具（ls、cp、rm 等等）都是 GNU coreutils 工具包提供的，这个网站是对该工具包的详细介绍，逐一分析其中近100个工具的内部实现。
+
+[Illlustrations](https://illlustrations.co/)
+![image](https://user-images.githubusercontent.com/98196188/158044521-bf5ce489-e368-4152-9d3f-86b8ab312150.png)
+> 一个艺术家开放自己的100多幅插图作品，免费下载。
+
 ## 参考
 
 1. [最老的唱片出版者](https://www.bbc.com/news/entertainment-arts-59986543) 
@@ -225,5 +245,7 @@ Steam Deck 的销量会告诉我们，掌机还有多大的市场。我个人还
 18. [经典日剧 AI 高清修复](https://www.bilibili.com/video/BV1HY411h7QH/)
 19. [如果这个世界有快乐机](https://www.ruanyifeng.com/blog/2022/03/weekly-issue-197.html)
 20. [走进迪拜未来博物馆](https://www.ifanr.com/1473634)
+21. [开发者武器库](https://devtool.tech)
+22. [JustWatch](https://www.justwatch.com/) 
 
 [返回主页](/)
